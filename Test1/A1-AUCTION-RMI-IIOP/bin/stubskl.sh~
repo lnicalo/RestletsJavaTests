@@ -1,0 +1,1 @@
+rmic -iiop a1.rmiiiop.auction.AuctionManager

@@ -1,0 +1,1 @@
+java -classpath . a1.rmi.clients.ListItems

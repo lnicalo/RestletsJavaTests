@@ -1,0 +1,2 @@
+java -classpath ./a1/rmiiiop/auction -Djava.naming.factory.initial=com.sun.jndi.cosnaming.CNCtxFactory -Djava.naming.provider.url=iiop://localhost:2000 AuctionManager &
+java -classpath ./a1/rmiiiop/item  -Djava.naming.factory.initial=com.sun.jndi.cosnaming.CNCtxFactory -Djava.naming.provider.url=iiop://localhost:2000 ItemManager &
