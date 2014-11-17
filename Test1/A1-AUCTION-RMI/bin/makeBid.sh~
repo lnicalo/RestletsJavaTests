@@ -1,1 +1,0 @@
-java -classpath . a1.rmi.clients.MakeBid 1 333 Luis
